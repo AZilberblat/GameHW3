@@ -20,9 +20,9 @@ GameObject:
   m_Component:
   - component: {fileID: 4388327306662796}
   - component: {fileID: 212019932641427304}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: weapon1
-  m_TagString: Untagged
+  m_TagString: Weapon
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
