@@ -304,7 +304,6 @@ MonoBehaviour:
   pickupChance: 50
   pickups:
   - {fileID: 1480835875936866, guid: fc0399be784c045448fbf36140ba9eb7, type: 2}
-  - {fileID: 1235744602599310, guid: 4a5e5e34a99a72b459794cbdb205abab, type: 2}
   stopDistance: 10
   attackSpeed: 8
 --- !u!212 &212313451855370540
